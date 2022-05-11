@@ -4,4 +4,4 @@ This is a repository of custom widgets that I create to use in personal projects
 
 # List of widgets
 
-* !<animated_toggle>
+* [Animated Toggle Widget](animated_toggle/)
